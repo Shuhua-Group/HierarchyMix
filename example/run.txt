@@ -1,2 +1,0 @@
-python ../HierAdmix.py --input Hier.seg --bootstrap 100 --output Hier
-python ../HierAdmix.py --input Sequen.seg --bootstrap 100 --output Sequen
