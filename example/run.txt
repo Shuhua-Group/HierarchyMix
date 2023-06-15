@@ -1,0 +1,2 @@
+python ../HierarchyMix.py --input Hier.seg --bootstrap 100 --output Hier
+python ../HierarchyMix.py --input Sequen.seg --bootstrap 100 --output Sequen
