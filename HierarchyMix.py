@@ -149,7 +149,7 @@ def getUKV_M1(mlist, Tlist):
 	a1 = m1/(m1+m2)
 	a2 = 1-a1
 	a3 = m3/(m3+m4)
-	a4 = m4
+	a4 = m4/(m3+m4)
 	u[0] = m1*a2*(t2-t1)+m1*m2*t1
 	u[1] = m1*m3*t1
 	u[2] = m1*m4*t1
